@@ -39,7 +39,7 @@
 
 ## Featured Project
 
-### 📊 [Анализ финансовой устойчивости строительных МСП России (2021–2025)](https://github.com/xTravisBickley/construction-sme-analytics)
+### 📊 [Анализ финансовой устойчивости строительных МСП России (2021–2025)](https://github.com/xTravisBickley/construction-sme-eda)
 
 Исследование рентабельности 8 000+ малых и средних строительных компаний на основе открытых данных ФНС.
 
