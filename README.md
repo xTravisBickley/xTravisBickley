@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 Обо мне
+## Обо мне
 
 Студент программы **«Бизнес-информатика»** НИУ ВШЭ. Начинающий аналитик данных с практическим опытом работы с большими объёмами данных. 
 
@@ -21,8 +21,6 @@
 - 💬 Готов к стажировкам в сфере аналитики данных
 
 ---
-
-## 🛠 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -39,7 +37,7 @@
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### 📊 [Анализ финансовой устойчивости строительных МСП России (2021–2025)](https://github.com/xTravisBickley/construction-sme-analytics)
 
