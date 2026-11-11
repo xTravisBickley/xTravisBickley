@@ -57,6 +57,7 @@
 ## Контакты
 
 | | |
+|---|---|
 | Email | [aziev33@mail.ru](mailto:aziev33@mail.ru) |
 | ✈️ Telegram | [@dxdydxdydxdydxdy](https://t.me/dxdydxdydxdydxdy) |
 | 💼 GitHub | [github.com/xTravisBickley](https://github.com/xTravisBickley) |
