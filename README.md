@@ -1,12 +1,12 @@
 <p align="center">
-  <em>Начинающий аналитик данных · Python · SQL · ETL</em>
+  <em>Аналитик данных · Python · SQL · ETL</em>
 </p>
 <p align="center">
   <a href="mailto:aziev33@mail.ru">
     <img src="https://img.shields.io/badge/Email-aziev33@mail.ru-blue?style=flat&logo=gmail" alt="email">
   </a>
   <a href="https://t.me/forallxydxdydxdy">
-    <img src="https://img.shields.io/badge/Telegram-@dxdydxdydxdydxdy-2CA5E0?style=flat&logo=telegram" alt="telegram">
+    <img src="https://img.shields.io/badge/Telegram-@forallxydxdydxdy-2CA5E0?style=flat&logo=telegram" alt="telegram">
   </a>
 </p>
 
@@ -14,11 +14,13 @@
 
 ## Обо мне
 
-Студент программы **«Бизнес-информатика»** НИУ ВШЭ. Начинающий аналитик данных. 
+Студент 2-го курса программы **«Бизнес-информатика»** НИУ ВШЭ, интересующийся аналитикой.
 
 - Изучаю **продуктовую аналитику** и **A/B-тестирование**
+- Активно участвую в хакатонах и кейс-чемпионатах
+- Умею автоматизировать процессы, включая использование готовых ИИ-агентов и их создание
 - Призёр олимпиады по информатике
-- Готов к стажировкам в сфере аналитики данных
+- ОЧЕНЬ ХОЧУ НА СТАЖИРОВКУ
 
 ---
 
@@ -55,7 +57,6 @@
 ## Контакты
 
 | | |
-|---|---|
 | Email | [aziev33@mail.ru](mailto:aziev33@mail.ru) |
 | ✈️ Telegram | [@dxdydxdydxdydxdy](https://t.me/dxdydxdydxdydxdy) |
 | 💼 GitHub | [github.com/xTravisBickley](https://github.com/xTravisBickley) |
